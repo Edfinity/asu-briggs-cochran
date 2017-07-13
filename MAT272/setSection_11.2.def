@@ -1,0 +1,29 @@
+
+openDate          = 06/11/2014 at 11:11am MST
+dueDate           = 06/18/2014 at 11:11am MST
+answerDate        = 06/25/2014 at 11:11am MST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+problemList       = 
+Library/FortLewis/Calc3/12-1-Two-variable-functions/HGM4-12-1-02-Functions-of-two-variables.pg, 1, -1 
+Library/UMN/calculusStewartET/s_12_1_10.pg, 1, -1 
+Library/UMN/calculusStewartET/s_12_1_prob01/s_12_1_prob01.pg, 1, 4 
+Local/272/setStewart12_1/problem_1.pg, 1, -1 
+Local/272/setStewart12_1/problem_2.pg, 1, -1 
+Local/272/setStewart12_1/problem_3.pg, 1, -1 
+Local/Dartmouth/setStewartCh13S1/problem_5.pg, 1, -1 
+Local/Rochester/setVectors1space3D/UR_VC_1_1.pg, 1, -1 
+Local/Rochester/setVectors1space3D/UR_VC_1_2.pg, 1, 4 
+Local/Rochester/setVectors1space3D/UR_VC_1_4.pg, 1, -1 
+Local/Rochester/setVectors1space3D/UR_VC_1_5.pg, 1, -1 
+Local/Rochester/setVectors1space3D/UR_VC_1_7.pg, 1, -1 
+Library/UMN/calculusStewartET/s_12_1_5/s_12_1_5.pg, 1, 4 
+Local/272/setStewart12_1/problem_4.pg, 1, -1 
+Library/FortLewis/Calc3/13-1-Displacement-vectors/HGM4-13-1-25-Displacement-vectors/HGM4-13-1-25-Displacement-vectors.pg, 1, -1 
+Library/FortLewis/Calc3/13-1-Displacement-vectors/HGM4-13-1-30-Displacement-vectors/HGM4-13-1-30-Displacement-vectors.pg, 1, -1 
+Library/UMN/calculusStewartET/s_12_2_26.pg, 1, -1 
+Library/Union/setMVvectors/an12_2_19.pg, 1, -1 
+Local/272/setStewart12_2/problem_1.pg, 1, -1 
+Local/272/setStewart12_2/problem_2.pg, 1, -1 
+Local/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/12_Vector_Geometry/12.1_Vectors_in_the_Plane/12.1.35.pg, 1, -1 
+

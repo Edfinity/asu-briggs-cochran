@@ -1,0 +1,19 @@
+
+openDate          = 08/21/2014 at 07:00am MST
+dueDate           = 08/28/2014 at 11:59pm MST
+answerDate        = 08/30/2014 at 11:59pm MST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+problemList       = 
+Local/270/setLimitsRates6Rates/s1_6_11.pg, 1, -1 
+Local/270/setLimitsRates6Rates/s1_6_12.pg, 1, -1 
+Local/270/setLimitsRates6Rates/ur_lr_6_1.pg, 1, -1 
+Local/Rochester/setDerivatives3WordProblems/s2_3_8.pg, 1, -1 
+Local/Rochester/setDerivatives3WordProblems/s2_3_1.pg, 1, -1 
+Local/Rochester/setDerivatives3WordProblems/s2_3_24.pg, 1, -1 
+Local/Rochester/setDerivatives3WordProblems/s2_3_10.pg, 1, -1 
+Local/ASU-topics/setDerivativeBasicFunctions/3-4-86.pg, 1, -1 
+Local/ASU-topics/setDerivativeBasicFunctions/3-4-88.pg, 1, -1 
+Local/ASU-topics/setCalculus/stef/stef3_3p1.pg, 1, -1 
+

@@ -1,0 +1,167 @@
+assignmentType      = default
+openDate          = 05/26/2014 at 12:45pm MST
+reducedScoringDate = 12/31/1969 at 05:00pm MST
+dueDate           = 06/02/2014 at 12:45pm MST
+answerDate        = 06/09/2014 at 12:45pm MST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = Volume by Slicing
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/UCSB/Stewart5_6_2/Stewart5_6_2_5.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/UCSB/Stewart5_6_2/Stewart5_6_2_6.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/UCSB/Stewart5_6_2/Stewart5_6_2_8.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/UCSB/Stewart5_6_2/Stewart5_6_2_10.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/UCSB/Stewart5_6_2/Stewart5_6_2_49/Stewart5_6_2_49.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/UCSB/Stewart5_6_2/Stewart5_6_2_57.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/Utah/AP_Calculus_I/set11_Applications_of_Integration/p13-1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/6_Applications_of_the_Integral/6.3_Volumes_of_Revolution/6.3.5.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/6_Applications_of_the_Integral/6.3_Volumes_of_Revolution/6.3.7.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 10
+source_file = Local/ASU-topics/setCalc2/tracogna2.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 11
+source_file = Local/ASU-topics/setCalc2/tracogna3.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 12
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_7-2/stefi7_2p3.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 13
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_7-2/stefi7_2p4.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 14
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_7-2/stefi7_2p6.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 15
+source_file = Local/ASU-topics/setCalculus-new/stefi7_2p1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 16
+source_file = Local/Rochester/setIntegrals20Volume/sc6_2_3.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 17
+source_file = Local/Rochester/setIntegrals20Volume/sc6_2_14.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+

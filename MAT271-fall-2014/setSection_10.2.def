@@ -1,0 +1,167 @@
+assignmentType      = default
+openDate          = 05/26/2014 at 03:24pm MST
+reducedScoringDate = 12/31/1969 at 05:00pm MST
+dueDate           = 06/02/2014 at 03:24pm MST
+answerDate        = 06/09/2014 at 03:24pm MST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = Polar Coordinates
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Local/ASU-topics/setCalc2/tracogna31.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 2
+source_file = Local/ASU-topics/setCalc2/tracogna32.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 3
+source_file = Local/ASU-topics/setCalc2/tracogna33.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 4
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_9-3/stefi9_3p1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 5
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_9-3/stefi9_3p8.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 6
+source_file = Local/Rochester/setPolarCoord1Points/evaSet4_3new.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 7
+source_file = Local/Rochester/setPolarCoord1Points/nsAP_G1_1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 8
+source_file = Local/Rochester/setPolarCoord1Points/nsAP_G1_4.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 9
+source_file = Local/Rochester/setPolarCoord1Points/ur_pc_1_1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 10
+source_file = Local/Rochester/setPolarCoord1Points/ur_pc_1_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 11
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 12
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 13
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_3.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 14
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_5.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 15
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_6.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 16
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_7.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 17
+source_file = Local/Rochester/setPolarCoord2Curves/ur_pc_2_8.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+

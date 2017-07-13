@@ -1,0 +1,95 @@
+assignmentType      = default
+openDate          = 05/26/2014 at 01:15pm MST
+reducedScoringDate = 12/31/1969 at 05:00pm MST
+dueDate           = 06/02/2014 at 01:15pm MST
+answerDate        = 06/09/2014 at 01:15pm MST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = Infinite Series
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_8-2/stefi8_2p1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 2
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_8-2/stefi8_2p4.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 3
+source_file = Local/Dartmouth/setStewartCh12S2/problem_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 4
+source_file = Local/Dartmouth/setStewartCh12S2/problem_9.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 5
+source_file = Local/Dartmouth/setStewartCh12S2/problem_10.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 6
+source_file = Local/Rochester/setSeries4Geometric/ns8_2_13.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 7
+source_file = Local/Rochester/setSeries4Geometric/ns8_2_23.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/ma123DB/set10/s11_2_23.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/ma123DB/set10/s11_2_33.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+

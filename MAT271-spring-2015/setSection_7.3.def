@@ -1,0 +1,95 @@
+assignmentType      = default
+openDate          = 05/26/2014 at 12:51pm MST
+reducedScoringDate = 12/31/1969 at 05:00pm MST
+dueDate           = 06/02/2014 at 12:51pm MST
+answerDate        = 06/09/2014 at 12:51pm MST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = Trigonometric Integrals
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Local/270/setIntegrals5Trig/sc5_5_100.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 2
+source_file = Local/ASU-topics/setCalc2/tracogna11.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 3
+source_file = Local/ASU-topics/setCalc2/tracogna12.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 4
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_6-2/stefi6_2p1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 5
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_6-2/stefi6_2p3.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 6
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_6-2/stefi6_2p9.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 7
+source_file = Local/ASU-topics/setCalculus/stef/stef7_2p1.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 8
+source_file = Local/Rochester/setIntegrals5Trig/osu_in_5_7.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 9
+source_file = Local/Rochester/setIntegrals5Trig/sc5_5_99.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+

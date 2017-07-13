@@ -1,0 +1,21 @@
+
+openDate          = 08/21/2014 at 07:00am MST
+dueDate           = 08/28/2014 at 11:59pm MST
+answerDate        = 08/30/2014 at 11:59pm MST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+problemList       = 
+Library/UVA-Stew5e/setUVA-Stew5e-C02S06-InfLimits/2-6-23.pg, 1, -1 
+Library/ma122DB/set2/s2_6_19.pg, 1, -1 
+Library/ma122DB/set2/s2_6_21.pg, 1, -1 
+Library/ma122DB/set2/s2_6_29.pg, 1, -1 
+Library/ma122DB/set2/s2_6_43.pg, 1, -1 
+Library/maCalcDB/setLimitsRates3Infinite/ns2_2_xxx.pg, 1, -1 
+Library/maCalcDB/setLimitsRates3Infinite/ur_lr_3_15.pg, 1, -1 
+Local/270/setLimitsRates3Infinite/ur_lr_3_7.pg, 1, -1 
+Local/270/setLimitsRates3Infinite/ur_lr_3_8.pg, 1, -1 
+Local/270/setLimitsRates3Infinite/ur_lr_3_9.pg, 1, -1 
+Local/270/setLimitsRates3Infinite/ur_lr_3_10.pg, 1, -1 
+Local/ASU-topics/setLimitInfinity/4-4-43.pg, 1, -1 
+

@@ -1,0 +1,86 @@
+assignmentType      = default
+openDate          = 05/26/2014 at 01:18pm MST
+reducedScoringDate = 12/31/1969 at 05:00pm MST
+dueDate           = 06/02/2014 at 01:18pm MST
+answerDate        = 06/09/2014 at 01:18pm MST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = The Divergence and Integral Tests
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_8-2/stefi8_2p3.pg
+value = 1
+max_attempts = 1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 2
+source_file = Local/Rochester/setSeries3Convergent/ns8_2_9.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 3
+source_file = Local/Rochester/setSeries3Convergent/ur_sr_3_7.pg
+value = 1
+max_attempts = 1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/10_Infinite_Series/10.3_Convergence_of_Series_with_Positive_Terms/10.3.12.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/10_Infinite_Series/10.3_Convergence_of_Series_with_Positive_Terms/10.3.10.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/10_Infinite_Series/10.3_Convergence_of_Series_with_Positive_Terms/10.3.7.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/10_Infinite_Series/10.3_Convergence_of_Series_with_Positive_Terms/10.3.76.pg
+value = 1
+max_attempts = 1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/10_Infinite_Series/10.3_Convergence_of_Series_with_Positive_Terms/10.3.5.pg
+value = 1
+max_attempts = -1
+showMeAnother = 
+counts_parent_grade = 
+att_to_open_children =  
+problem_end
+

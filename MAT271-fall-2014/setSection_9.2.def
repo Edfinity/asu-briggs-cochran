@@ -1,0 +1,221 @@
+assignmentType      = default
+openDate          = 05/26/2014 at 02:42pm MST
+reducedScoringDate = 12/31/1969 at 05:00pm MST
+dueDate           = 06/02/2014 at 02:42pm MST
+answerDate        = 06/09/2014 at 02:42pm MST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = Properties of Power Series
+restrictProbProgression = 0
+emailInstructor   = 0
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/ma123DB/set12/s11_8_28.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/ma123DB/set12/s11_8_12.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/ma123DB/set12/s11_8_11.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/ma123DB/set12/s11_8_10.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/ma123DB/set12/s11_8_17.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 6
+source_file = Library/Dartmouth/setStewartCh12S8/problem_2.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 7
+source_file = Library/Dartmouth/setStewartCh12S8/problem_5.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 8
+source_file = Library/Dartmouth/setStewartCh12S8/problem_4.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 9
+source_file = Library/Rochester/setSeries8Power/eva8_5a_1.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 10
+source_file = Library/Rochester/setSeries8Power/eva8_5a_5.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 11
+source_file = Library/UMN/calculusStewartCCC/s_11_8_30.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 12
+source_file = Library/Michigan/Chap9Sec5/Q26.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 13
+source_file = Library/Michigan/Chap9Sec5/Q33.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 14
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_8-5/stefi8_5p8.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 15
+source_file = Local/Dartmouth/setStewartCh12S9/problem_1.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 16
+source_file = Local/Dartmouth/setStewartCh12S9/problem_3.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 17
+source_file = Local/Rochester/setSeries8Power/eva8_6a.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 18
+source_file = Local/Rochester/setSeries8Power/eva8_6b.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 19
+source_file = Local/Rochester/setSeries8Power/eva8_6c.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 20
+source_file = Local/Rochester/setSeries8Power/eva8_6g_a.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 21
+source_file = Local/Dartmouth/setStewartCh12S9/problem_4.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 22
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_8-6/stefi8_6p2.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+problem_start
+problem_id = 23
+source_file = Local/ASU-topics/setCalculus-new/setMAT266_Section_8-6/stefi8_6p1.pg
+value = 1
+max_attempts = -1
+showMeAnother = -1
+counts_parent_grade = 0
+att_to_open_children = 0 
+problem_end
+

@@ -1,0 +1,17 @@
+
+openDate          = 08/21/2014 at 07:00am MST
+dueDate           = 08/28/2014 at 11:59pm MST
+answerDate        = 08/30/2014 at 11:59pm MST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+problemList       = 
+Library/Rochester/setDerivatives8RelatedRates/ur_dr_8_1.pg, 1, -1 
+Library/UVA-Stew5e/setUVA-Stew5e-C03S10-RelatedRates/3-10-03.pg, 1, -1 
+Library/maCalcDB/setDerivatives8RelatedRates/SRM_c2s8p3.pg, 1, -1 
+Local/270/setDerivatives8RelatedRates/SRM_s2_8_7.pg, 1, -1 
+Local/ASU-topics/setImplicitDerivatives/5-5-03.pg, 1, -1 
+Local/ASU-topics/setImplicitDerivatives/5-5-06.pg, 1, -1 
+Local/ASU-topics/setImplicitDerivatives/5-5-13.pg, 1, -1 
+Local/ASU-topics/setImplicitDerivatives/5-5-21.pg, 1, -1 
+
